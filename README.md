@@ -70,8 +70,6 @@ The table above belongs to the logistic-regression notebook only. TODO: add a no
 4. **Train and evaluate** - preprocess the features, train logistic regression, and evaluate it on a held-out test set.
 5. **Turn the result into a tool** - combine saved model scores in Streamlit and add clear risk factors and suggested actions.
 
-continue the README with this after the last paragraph:
-
 ## Project structure
 
 ```text
