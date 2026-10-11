@@ -1,0 +1,13 @@
+# Dependencies for the Streamlit app, src modules, and analysis notebooks.
+# Training package versions are not recorded in the notebooks.
+# Verify saved-model loading before pinning a tested environment.
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+scipy
+scikit-learn
+lightgbm
+joblib
+statsmodels
