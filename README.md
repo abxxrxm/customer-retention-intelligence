@@ -86,9 +86,12 @@ customer-retention-intelligence/
 │   ├── 01_data_validation.ipynb
 │   ├── 02_statistical_analysis.ipynb
 │   └── 03_logistic_regression.ipynb
+├── sql/
+│   └── churn_analysis.sql
 ├── src/
 │   ├── analytics.py
 │   └── data_validation.py
+├── README.md
 └── requirements.txt
 ```
 
